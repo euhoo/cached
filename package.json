@@ -1,5 +1,5 @@
 {
-  "name": "cached",
+  "name": "cache-it",
   "version": "0.0.1",
   "description": "cache requests",
   "main": "index.js",
